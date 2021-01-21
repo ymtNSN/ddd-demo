@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0ec76b9-9d92-4acd-a4d1-845cb0a85195" name="Default Changelist" comment="" />
+    <list default="true" id="c0ec76b9-9d92-4acd-a4d1-845cb0a85195" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo-domain/src/main/java/com/ymt/demo/domain/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-persistence/src/main/java/com/ymt/demo/persistence/OrderDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-persistence/src/main/java/com/ymt/demo/persistence/OrderDataConverter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +37,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1nKFItuEI8KnDYTfS6Qi6htYJnh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,6 +51,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/demo-web/src/main/java/com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -57,6 +64,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ymt.demo.types" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaprojects\hpcang\ddd-demo" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -68,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611130798246</updated>
-      <workItem from="1611130800523" duration="9142000" />
+      <workItem from="1611130800523" duration="15957000" />
     </task>
     <servers />
   </component>
@@ -80,6 +90,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1022" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611133254370" />
+    <state x="1212" y="382" width="456" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1611210277949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1212" y="382" width="456" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1611210277949" />
     <state x="1219" y="403" width="556" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1611133246369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
